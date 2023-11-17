@@ -1,0 +1,1 @@
+[04-Apr-2023 20:20:57 UTC] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in /home2/agrohand/public_html/config/mail/PHPMailer/PHPMailerAutoload.php on line 45

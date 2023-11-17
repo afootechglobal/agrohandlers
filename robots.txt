@@ -1,0 +1,65 @@
+# https://developers.google.com/webmasters/control-crawl-index/docs/robots_txt?hl=en
+# allow all crawlers
+user-agent: *
+
+# images
+disallow: /images/
+disallow: /styles/
+disallow: /css/
+disallow: /js/
+
+# search
+disallow: /?*Query=
+disallow: /?Query=
+disallow: /?*query=
+disallow: /?query=
+
+# country page tabs
+disallow: /*?tab=*
+disallow: /?tab=*
+
+# 10-23-2017 Update
+disallow: /?ref=*
+disallow: /*?ref=*
+disallow: /?review-page*
+disallow: /*?review-page*
+
+# Meeting On 6/7
+disallow: /*?gclid=*
+disallow: /?gclid=*
+
+
+
+
+
+
+# 3-15-2016 Meeting
+disallow: /cgi-bin/
+disallow: /en/
+
+# sitemap - Supported by Google, Ask, Bing, Yahoo; defined on sitemaps.org
+
+sitemap: https://www.agrohandlers.com/sitemap.xml
+
+
+
+user-agent: *
+user-agent: rogerbot
+user-agent: Googlebot
+user-agent: Googlebot-Image
+user-agent: Googlebot-Video
+user-agent: Googlebot-News
+user-agent: Bingbot
+user-agent: MSNBot
+user-agent: MSNBot-Media
+user-agent: BingPreview
+user-agent: Slurp
+user-agent: DuckDuckBot
+user-agent: Baiduspider
+user-agent: Baiduspider-mobile
+user-agent: YandexBot
+user-agent: facebot
+user-agent: Teoma
+user-agent: AOLBuild
+user-agent: NaverBot
+user-agent: AppleBot

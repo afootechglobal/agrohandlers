@@ -1,0 +1,405 @@
+[04-May-2023 21:39:02 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[29-May-2023 23:26:34 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:40:26 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:40:26 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:40:33 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:40:34 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:20 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:21 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[10-Jun-2023 14:41:44 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[20-Jun-2023 04:51:48 UTC] PHP Parse error:  Unmatched '}' in /home2/agrohand/public_html/header.php on line 167
+[20-Jun-2023 04:51:48 UTC] PHP Parse error:  Unmatched '}' in /home2/agrohand/public_html/header.php on line 167
+[20-Jun-2023 04:51:49 UTC] PHP Parse error:  Unmatched '}' in /home2/agrohand/public_html/header.php on line 167
+[20-Jun-2023 04:51:57 UTC] PHP Parse error:  Unmatched '}' in /home2/agrohand/public_html/header.php on line 167
+[20-Jun-2023 04:52:15 UTC] PHP Parse error:  Unmatched '}' in /home2/agrohand/public_html/header.php on line 167
+[19-Jul-2023 13:57:43 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[19-Jul-2023 14:04:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:22:17 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:22:17 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:22:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:22:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:22:19 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:22:22 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:27:37 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 12:28:10 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 13:41:46 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[11-Aug-2023 19:48:19 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[12-Aug-2023 03:28:40 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[12-Aug-2023 20:41:37 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[12-Aug-2023 20:42:10 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 00:19:37 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 00:20:09 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 00:20:14 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 02:07:42 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 02:08:15 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 08:50:12 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 08:50:45 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 10:51:00 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 10:51:33 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 11:59:16 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 11:59:49 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[13-Aug-2023 22:33:26 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 09:44:05 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:38:28 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:38:35 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:38:35 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:38:36 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:38:36 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:38:37 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 16:39:01 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 18:34:22 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[15-Aug-2023 18:34:56 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[16-Aug-2023 13:02:18 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[16-Aug-2023 13:03:46 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[16-Aug-2023 19:35:40 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[16-Aug-2023 19:36:12 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[17-Aug-2023 00:44:06 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[17-Aug-2023 00:44:39 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[17-Aug-2023 00:51:52 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
+[18-Aug-2023 10:29:44 UTC] PHP Fatal error:  Uncaught TypeError: number_format(): Argument #1 ($num) must be of type float, string given in /home2/agrohand/public_html/product-details.php:98
+Stack trace:
+#0 /home2/agrohand/public_html/product-details.php(98): number_format()
+#1 {main}
+  thrown in /home2/agrohand/public_html/product-details.php on line 98
