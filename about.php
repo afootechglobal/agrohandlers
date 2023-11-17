@@ -11,6 +11,8 @@
 <meta property="og:image" content="<?php echo $website?>/all-images/plugin-pix/bellemata.jpg"/>
 <meta property="og:description" content="Agrohandlers is an online marketplace for retail and bulk Nigerian food items and groceries. Operating from Lagos, we source our stocks from the most quality-reliable places all across Nigeria."/>
 
+
+
 <meta name="twitter:title" content="About - <?php echo $thename?>:Online marketplace for retail and bulk Nigerian food items and groceries"/> 
 <meta name="twitter:card" content="<?php echo $thename?>"/> 
 <meta name="twitter:image"  content="<?php echo $website?>/all-images/plugin-pix/bellemata.jpg"/> 
